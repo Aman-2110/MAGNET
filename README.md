@@ -1,3 +1,5 @@
+# MAGNET
+
 Onedrive link : https://iiitaphyd-my.sharepoint.com/:f:/g/personal/santanu_biswas_students_iiit_ac_in/EjUi8SEjFjlJnvx7vd8N7tgBhtb2jONOYnyJOex8Nd1a0A?e=kQOBWg
 (contains training code, datasets, model checkpoints, inference code)
 
